@@ -12,7 +12,7 @@
 
 
 # 💫 About Me:
-- 🎓 **Studying at Pimpri Chinchwad University**<br>- 🚀 **Founder at Grromio**<br>- 💊 **Building Pharmacy Database managenment system**  <br>- 🧑‍💻 **Exploring AI, AR/VR, and 3D Tech**  <br>- 💡 **Passionate about startups, innovation, and coding**  <br>- 📫 **Let's connect:** [Tejas Murkute](https://www.linkedin.com/in/tejas-murkute-7ba932289/)
+- 🎓 **Studying at Pimpri Chinchwad University**<br>- 🚀 **Founder at Grromio**<br>- 💊 **Built a Pharmacy Database managenment system**  <br>- 🧑‍💻 **Exploring AI, AR/VR, and 3D Tech**  <br>- 💡 **Passionate about startups, innovation, and coding**  <br>- 📫 **Let's connect:** [Tejas Murkute](https://www.linkedin.com/in/tejas-murkute-7ba932289/)
 
 
 ## 🌐 Socials:
