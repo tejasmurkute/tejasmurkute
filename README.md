@@ -1,20 +1,14 @@
 <h1 align="center" style="color:#00FFF6;">⚡ Hey there! I'm Tejas Murkute 🦾</h1>
 
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120">
-  <rect width="100%" height="100%" fill="#050505"/>
-  <defs>
-    <linearGradient id="pulse" x1="0" x2="1">
-      <stop offset="0" stop-color="#00ffff"/>
-      <stop offset="1" stop-color="#0077ff"/>
-    </linearGradient>
-  </defs>
-  <path d="M0,60 Q150,20 300,60 T600,60 T900,60" stroke="url(#pulse)" stroke-width="2" fill="none">
-    <animate attributeName="stroke-dasharray" values="10,100;100,10;10,100" dur="2s" repeatCount="indefinite" />
-  </path>
-  <text x="50%" y="70" text-anchor="middle" font-family="Orbitron" font-size="40" fill="url(#pulse)" font-weight="700">
-    🔥 Building The Future
-  </text>
-</svg>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=🔥+Building+The+Future" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&pause=1000&color=800080&center=true&vCenter=true&width=500&lines=⚡+AI,+AR/VR,+3D+Tech+Explorer" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=🚀+Tech+Entrepreneur+%7C+Innovator" />
+</p>
 
 
 # 💫 About Me:
