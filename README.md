@@ -1,8 +1,18 @@
+
 # ⚡ Hey there! I'm Tejas Murkute 🦾
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&pause=1000&color=00FFF6&center=true&vCenter=true&width=600&lines=%F0%9F%94%A5+Building+The+Future;%E2%9A%A1+AI%2C+AR%2FVR%2C+3D+Tech+Explorer;%F0%9F%9A%80+Tech+Entrepreneur+%7C+Innovator" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&pause=1000&color=00FFF6&center=true&vCenter=true&width=700&lines=%F0%9F%94%A5+Building+The+Future;%E2%9A%A1+AI%2C+AR%2FVR%2C+3D+Tech+Explorer;%F0%9F%9A%80+Tech+Entrepreneur+%7C+Innovator"
+    alt="Typing SVG"
+  />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tejasmurkute&style=flat-square&color=00FFF6&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+---
 
 ## 💫 About Me
 
@@ -13,6 +23,8 @@
 - 💡 **Interested in startups, innovation, and software development**
 - 📫 **Email:** [Contact Me](mailto:tejasmurkute2004@gmail.com)
 - 🔗 **LinkedIn:** [Tejas Murkute](https://www.linkedin.com/in/tejas-murkute-7ba932289/)
+
+---
 
 ## 🌐 Socials
 
@@ -43,6 +55,8 @@
   </a>
 </p>
 
+---
+
 ## 💻 Tech Stack
 
 <p align="left">
@@ -57,38 +71,72 @@
   <img src="https://img.shields.io/badge/Xbox-107C10?style=flat&logo=xbox&logoColor=white" alt="Xbox" />
   <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=adobe&logoColor=white" alt="Adobe" />
   <img src="https://img.shields.io/badge/Creative_Cloud-DA1F26?style=flat&logo=adobecreativecloud&logoColor=white" alt="Adobe Creative Cloud" />
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
-  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white" alt="Adobe Premiere Pro" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white" alt="Premiere Pro" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" alt="Canva" />
 </p>
+
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejasmurkute&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="Tejas's GitHub Stats" />
-  <br />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=tejasmurkute&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasmurkute&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=tejasmurkute&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
+    alt="Tejas's GitHub Stats"
+    width="49%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasmurkute&layout=compact&theme=github_dark&hide_border=true"
+    alt="Top Languages"
+    width="49%"
+  />
 </p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=tejasmurkute&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak Stats"
+    width="70%"
+  />
+</p>
+
+---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tejasmurkute&theme=holi&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=tejasmurkute&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1"
+    alt="GitHub Trophies"
+    width="100%"
+  />
 </p>
+
+---
 
 ## ✍️ Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Developer Quote" />
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox"
+    alt="Random Developer Quote"
+    width="90%"
+  />
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=tejasmurkute&icon=2&color=0" alt="Profile Visit Count" />
+  <b>⚡ Building. Experimenting. Innovating. ⚡</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/tejasmurkute">
+    <img src="https://img.shields.io/badge/GitHub-tejasmurkute-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+  </a>
+  <a href="https://www.linkedin.com/in/tejas-murkute-7ba932289/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile" />
   </a>
 </p>
