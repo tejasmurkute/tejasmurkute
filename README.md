@@ -104,18 +104,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=tejasmurkute&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1"
-    alt="GitHub Trophies"
-    width="100%"
-  />
-</p>
-
----
-
 ## ✍️ Random Dev Quote
 
 <p align="center">
